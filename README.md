@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **laravel**
 
-- 📫 How to reach me **dmasadiptra@gmail.com**
+- 📫 How to reach me **dmasadptra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
